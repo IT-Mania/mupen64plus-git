@@ -1,0 +1,5 @@
+[ps4_mupen64plus-git]
+name=ps4-mupen64plus-git
+baseurl=https://raw.githubusercontent.com/IT-mania/mupen64plus-git/master/x86_64
+enabled=1
+gpgcheck=0
